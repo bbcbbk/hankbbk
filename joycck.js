@@ -118,8 +118,8 @@ async function joyReward() {
         // console.log(`宠物等级 ${data.level}\n`);
         let saleInfoId = '', giftValue = '', extInfo = '', leftStock = 0, salePrice = 0;
         let rewardNum = 0;
-        if ($.isNode() && process.env.JD_JOY_REWARD_NAME) {
-          rewardNum = process.env.JD_JOY_REWARD_NAME * 1;
+        if ($.isNode() && process.env.JD_JOYXXX) {
+          rewardNum = process.env.JD_JOYXXX * 1;
         } else if ($.getdata('joyRewardName')) {
           if ($.getdata('joyRewardName') * 1 === 1) {
             //兼容之前的BoxJs设置
