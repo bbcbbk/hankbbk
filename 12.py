@@ -1,4 +1,4 @@
-标准输出：import base64
+import base64
 import http.client
 import json
 import os
