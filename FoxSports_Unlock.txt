@@ -1,0 +1,8 @@
+foxsports.com
+fox.com
+foxdcg.com
+foxvideo.global.ssl.fastly.net
+foxmedia.global.ssl.fastly.net
+foxvideo.s.llnwi.net
+uplynk.com
+regexp:fox.*-i\.akamaihd\.net$
